@@ -1,6 +1,6 @@
-# 矩阵的加减法
+# 向量 
 
-## 1、矩阵加法
+## 1、向量的加法
 
 ```math
 \begin{pmatrix}
@@ -27,27 +27,20 @@ x_n + y_n
 
 ```
 
-相同规模的 (行数和列数都相等)的矩阵之间的加法：
+
+## 2、向量的乘法
+
 ```math
+c
 \begin{pmatrix}
-x_{11} & \cdots & x_{1n} \\
-\vdots & & \vdots \\
-x_{m1} & \cdots & x_{mn}
+y_1 \\
+\vdots \\
+y_n
 \end{pmatrix}
-
-+
-
-\begin{pmatrix}
-y_{11} & \cdots & y_{1n} \\
-\vdots & & \vdots \\
-y_{m1} & \cdots & y_{mn}
-\end{pmatrix}
-
 =
-
 \begin{pmatrix}
-x_{11} + y_{11} & \cdots & x_{1n} + y_{1n} \\
-\vdots & & \vdots \\
-x_{m1} + y_{m1} & \cdots & x_{mn} + y_{mn}
+cx_1 \\
+\vdots \\
+cx_n
 \end{pmatrix}
 ```
