@@ -8,7 +8,7 @@ c & d
 \end{pmatrix}
 ```
 
-## 2、水平省略号矩阵
+## 2、行向量
 
 ```math
 \begin{pmatrix}
@@ -16,7 +16,7 @@ x_1 & x_2 & \cdots & x_{n-1} & x_n
 \end{pmatrix}
 ```
 
-## 3、垂直省略号矩阵
+## 3、列向量
 
 ```math
 \begin{pmatrix}
