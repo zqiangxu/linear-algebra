@@ -1,6 +1,6 @@
 # 最基础写法
 
-```math
+```
 \begin{pmatrix}
 a & b\\
 c & d
