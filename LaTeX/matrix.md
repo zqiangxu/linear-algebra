@@ -76,23 +76,18 @@ x_1 \\
 \vdots \\
 x_n
 \end{pmatrix}
-
 +
-
 \begin{pmatrix}
 y_1 \\
 \vdots \\
 y_n
 \end{pmatrix}
-
 =
-
 \begin{pmatrix}
 x_1 + y_1 \\
 \vdots \\
 x_n + y_n
 \end{pmatrix}
-
 $$
 
 ## 参考资料

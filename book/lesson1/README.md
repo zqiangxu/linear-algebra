@@ -2,7 +2,7 @@
 
 ## 1、矩阵加法
 
-$$
+```math
 \begin{pmatrix}
 x_1 \\
 \vdots \\
@@ -25,12 +25,12 @@ x_1 + y_1 \\
 x_n + y_n
 \end{pmatrix}
 
-$$
+```
 
 
 ## 2、矩阵减法
 
-$$
+```math
 \begin{pmatrix}
 x_1 \\
 \vdots \\
@@ -53,4 +53,4 @@ x_1 - y_1 \\
 x_n - y_n
 \end{pmatrix}
 
-$$
+```
