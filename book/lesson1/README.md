@@ -58,6 +58,16 @@ c & d
 \end{pmatrix}
 ```
 
+## 5、m x n 矩阵 $X = (x_{mn})$
+```math
+\begin{pmatrix}
+x_{11} & \cdots & x_{1n} \\
+\vdots & & \vdots \\
+x_{m1} & \cdots & x_{mn}
+\end{pmatrix}
+```
+
+
 ## 参考资料
 
 1、[如何用latex编写矩阵（包括各类复杂、大型矩阵）？](https://zhuanlan.zhihu.com/p/266267223)
