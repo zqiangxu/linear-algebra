@@ -1,6 +1,13 @@
 # linear-algebra
 线性代数基础。
 
+$$ 
+\begin{pmatrix}
+a & b\\
+c & d
+\end{pmatrix}
+$$
+
 ## 章节目录
 
 1、[矩阵的加减法](./book/lesson1)
