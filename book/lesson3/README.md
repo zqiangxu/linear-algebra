@@ -2,10 +2,6 @@
 
 ## 1、矩阵乘法
 
-$$
-c(x+y) = cx + cy
-$$
-
 ```math
 c
 \begin{pmatrix}
@@ -20,3 +16,19 @@ cx_1 \\
 cx_n
 \end{pmatrix}
 ```
+
+
+$$
+c
+\begin{pmatrix}
+x_{11} & \cdots & x_{1n} \\
+\vdots & & \vdots \\
+x_{m1} & \cdots & x_{mn}
+\end{pmatrix}
+=
+\begin{pmatrix}
+cx_{11} & \cdots & cx_{1n} \\
+\vdots & & \vdots \\
+cx_{m1} & \cdots & cx_{mn}
+\end{pmatrix}
+$$
