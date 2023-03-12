@@ -1,14 +1,7 @@
 # 最基础写法
 
-## 1、2 x 2 矩阵
-```math
-\begin{pmatrix}
-a & b\\
-c & d
-\end{pmatrix}
-```
 
-## 2、行向量
+## 1、行向量
 
 ```math
 \begin{pmatrix}
@@ -16,7 +9,7 @@ x_1 & x_2 & \cdots & x_{n-1} & x_n
 \end{pmatrix}
 ```
 
-## 3、列向量
+## 2、列向量
 
 ```math
 \begin{pmatrix}
@@ -28,7 +21,7 @@ x_n
 \end{pmatrix}
 ```
 
-## 4、矩阵加法
+## 3、列向量的加法
 
 ```math
 $$
@@ -55,6 +48,14 @@ x_n + y_n
 \end{pmatrix}
 
 $$
+```
+
+## 4、2 x 2 矩阵
+```math
+\begin{pmatrix}
+a & b\\
+c & d
+\end{pmatrix}
 ```
 
 ## 参考资料
