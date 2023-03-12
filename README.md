@@ -8,7 +8,7 @@ c & d
 $$
 
 ## 章节目录
-
+1、[LaTeX 矩阵生成示例](./LaTeX/matrix.md)
 1、[矩阵的加减法](./book/lesson1)
 
 ## 参考资料
