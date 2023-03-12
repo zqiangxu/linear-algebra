@@ -6,7 +6,7 @@ $$
 c(x+y) = cx + cy
 $$
 
-$$
+```math
 c
 \begin{pmatrix}
 y_1 \\
@@ -19,4 +19,4 @@ cx_1 \\
 \vdots \\
 cx_n
 \end{pmatrix}
-$$
+```
